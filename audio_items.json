@@ -1,0 +1,1652 @@
+[
+    {
+      "id": 1,
+      "text": "I'm dog sick",
+      "ko_txt": "나는 매우 아프다",
+      "pt_txt": "Estou muito doente",
+      "audio": {
+        "en": "audio/en/en_1.mp3",
+        "ko": "audio/ko/ko_1.mp3",
+        "pt": "audio/pt/pt_1.mp3"
+      }
+    },
+    {
+      "id": 2,
+      "text": "Break the ice",
+      "ko_txt": "얼음을 깨고(대화 시작)",
+      "pt_txt": "Quebrar o gelo (inciar uma conversa)",
+      "audio": {
+        "en": "audio/en/en_2.mp3",
+        "ko": "audio/ko/ko_2.mp3",
+        "pt": "audio/pt/pt_2.mp3"
+      }
+    },
+    {
+      "id": 3,
+      "text": "Spill the beans",
+      "ko_txt": "비밀을 말하다",
+      "pt_txt": "Contar um segredo",
+      "audio": {
+        "en": "audio/en/en_3.mp3",
+        "ko": "audio/ko/ko_3.mp3",
+        "pt": "audio/pt/pt_3.mp3"
+      }
+    },
+    {
+      "id": 4,
+      "text": "Hit the nail on the head",
+      "ko_txt": "당신이 뭔가를 제대로 얻었을 때",
+      "pt_txt": "Acertou na mosca",
+      "audio": {
+        "en": "audio/en/en_4.mp3",
+        "ko": "audio/ko/ko_4.mp3",
+        "pt": "audio/pt/pt_4.mp3"
+      }
+    },
+    {
+      "id": 5,
+      "text": "I burn the midnight oil",
+      "ko_txt": "밤을 새웠어요 (일하거나 공부했어요)",
+      "pt_txt": "Virei a noite",
+      "audio": {
+        "en": "audio/en/en_5.mp3",
+        "ko": "audio/ko/ko_5.mp3",
+        "pt": "audio/pt/pt_5.mp3"
+      }
+    },
+    {
+      "id": 6,
+      "text": "Pull someone's leg",
+      "ko_txt": "누군가와 놀아요 (농담을 해보세요)",
+      "pt_txt": "Brincar com alguém (fazer uma piada)",
+      "audio": {
+        "en": "audio/en/en_6.mp3",
+        "ko": "audio/ko/ko_6.mp3",
+        "pt": "audio/pt/pt_6.mp3"
+      }
+    },
+    {
+      "id": 7,
+      "text": "Hit the books",
+      "ko_txt":"열심히 공부하다",
+      "pt_txt":"Estudar intensamente",
+      "audio": {
+        "en": "audio/en/en_7.mp3",
+        "ko": "audio/ko/ko_7.mp3",
+        "pt": "audio/pt/pt_7.mp3"
+      }
+    },
+    {
+      "id": 8,
+      "text": "Cut corners",
+      "ko_txt":"가장 쉽고 빠른 방법으로 무언가를 하십시오",
+      "pt_txt":"Fazer algo da maneira mais fácil ou rápida",
+      "audio": {
+        "en": "audio/en/en_8.mp3",
+        "ko": "audio/ko/ko_8.mp3",
+        "pt": "audio/pt/pt_8.mp3"
+      }
+    },
+    {
+      "id": 9,
+      "text": "Bite the bullet",
+      "ko_txt":"힘들거나 불쾌한 일에 용기를 가지고 맞서세요",
+      "pt_txt":"Enfrentar algo difícil ou desagradável com coragem",
+      "audio": {
+        "en": "audio/en/en_9.mp3",
+        "ko": "audio/ko/ko_9.mp3",
+        "pt": "audio/pt/pt_9.mp3"
+      }
+    },
+    {
+      "id": 10,
+      "text": "Under the weather",
+      "ko_txt":"기분이 좋지 않다",
+      "pt_txt":"Sentir-se indisposto",
+      "audio": {
+        "en": "audio/en/en_10.mp3",
+        "ko": "audio/ko/ko_10.mp3",
+        "pt": "audio/pt/pt_10.mp3"
+      }
+    },
+    {
+      "id": 11,
+      "text": "Expression 11",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_11.mp3",
+        "ko": "audio/ko/ko_11.mp3",
+        "pt": "audio/pt/pt_11.mp3"
+      }
+    },
+    {
+      "id": 12,
+      "text": "Expression 12",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_12.mp3",
+        "ko": "audio/ko/ko_12.mp3",
+        "pt": "audio/pt/pt_12.mp3"
+      }
+    },
+    {
+      "id": 13,
+      "text": "Expression 13",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_13.mp3",
+        "ko": "audio/ko/ko_13.mp3",
+        "pt": "audio/pt/pt_13.mp3"
+      }
+    },
+    {
+      "id": 14,
+      "text": "Expression 14",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_14.mp3",
+        "ko": "audio/ko/ko_14.mp3",
+        "pt": "audio/pt/pt_14.mp3"
+      }
+    },
+    {
+      "id": 15,
+      "text": "Expression 15",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_15.mp3",
+        "ko": "audio/ko/ko_15.mp3",
+        "pt": "audio/pt/pt_15.mp3"
+      }
+    },
+    {
+      "id": 16,
+      "text": "Expression 16",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_16.mp3",
+        "ko": "audio/ko/ko_16.mp3",
+        "pt": "audio/pt/pt_16.mp3"
+      }
+    },
+    {
+      "id": 17,
+      "text": "Expression 17",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_17.mp3",
+        "ko": "audio/ko/ko_17.mp3",
+        "pt": "audio/pt/pt_17.mp3"
+      }
+    },
+    {
+      "id": 18,
+      "text": "Expression 18",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_18.mp3",
+        "ko": "audio/ko/ko_18.mp3",
+        "pt": "audio/pt/pt_18.mp3"
+      }
+    },
+    {
+      "id": 19,
+      "text": "Expression 19",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_19.mp3",
+        "ko": "audio/ko/ko_19.mp3",
+        "pt": "audio/pt/pt_19.mp3"
+      }
+    },
+    {
+      "id": 20,
+      "text": "Expression 20",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_20.mp3",
+        "ko": "audio/ko/ko_20.mp3",
+        "pt": "audio/pt/pt_20.mp3"
+      }
+    },
+    {
+      "id": 21,
+      "text": "Expression 21",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_21.mp3",
+        "ko": "audio/ko/ko_21.mp3",
+        "pt": "audio/pt/pt_21.mp3"
+      }
+    },
+    {
+      "id": 22,
+      "text": "Expression 22",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_22.mp3",
+        "ko": "audio/ko/ko_22.mp3",
+        "pt": "audio/pt/pt_22.mp3"
+      }
+    },
+    {
+      "id": 23,
+      "text": "Expression 23",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_23.mp3",
+        "ko": "audio/ko/ko_23.mp3",
+        "pt": "audio/pt/pt_23.mp3"
+      }
+    },
+    {
+      "id": 24,
+      "text": "Expression 24",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_24.mp3",
+        "ko": "audio/ko/ko_24.mp3",
+        "pt": "audio/pt/pt_24.mp3"
+      }
+    },
+    {
+      "id": 25,
+      "text": "Expression 25",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_25.mp3",
+        "ko": "audio/ko/ko_25.mp3",
+        "pt": "audio/pt/pt_25.mp3"
+      }
+    },
+    {
+      "id": 26,
+      "text": "Expression 26",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_26.mp3",
+        "ko": "audio/ko/ko_26.mp3",
+        "pt": "audio/pt/pt_26.mp3"
+      }
+    },
+    {
+      "id": 27,
+      "text": "Expression 27",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_27.mp3",
+        "ko": "audio/ko/ko_27.mp3",
+        "pt": "audio/pt/pt_27.mp3"
+      }
+    },
+    {
+      "id": 28,
+      "text": "Expression 28",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_28.mp3",
+        "ko": "audio/ko/ko_28.mp3",
+        "pt": "audio/pt/pt_28.mp3"
+      }
+    },
+    {
+      "id": 29,
+      "text": "Expression 29",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_29.mp3",
+        "ko": "audio/ko/ko_29.mp3",
+        "pt": "audio/pt/pt_29.mp3"
+      }
+    },
+    {
+      "id": 30,
+      "text": "Expression 30",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_30.mp3",
+        "ko": "audio/ko/ko_30.mp3",
+        "pt": "audio/pt/pt_30.mp3"
+      }
+    },
+    {
+      "id": 31,
+      "text": "Expression 31",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_31.mp3",
+        "ko": "audio/ko/ko_31.mp3",
+        "pt": "audio/pt/pt_31.mp3"
+      }
+    },
+    {
+      "id": 32,
+      "text": "Expression 32",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_32.mp3",
+        "ko": "audio/ko/ko_32.mp3",
+        "pt": "audio/pt/pt_32.mp3"
+      }
+    },
+    {
+      "id": 33,
+      "text": "Expression 33",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_33.mp3",
+        "ko": "audio/ko/ko_33.mp3",
+        "pt": "audio/pt/pt_33.mp3"
+      }
+    },
+    {
+      "id": 34,
+      "text": "Expression 34",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_34.mp3",
+        "ko": "audio/ko/ko_34.mp3",
+        "pt": "audio/pt/pt_34.mp3"
+      }
+    },
+    {
+      "id": 35,
+      "text": "Expression 35",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_35.mp3",
+        "ko": "audio/ko/ko_35.mp3",
+        "pt": "audio/pt/pt_35.mp3"
+      }
+    },
+    {
+      "id": 36,
+      "text": "Expression 36",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_36.mp3",
+        "ko": "audio/ko/ko_36.mp3",
+        "pt": "audio/pt/pt_36.mp3"
+      }
+    },
+    {
+      "id": 37,
+      "text": "Expression 37",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_37.mp3",
+        "ko": "audio/ko/ko_37.mp3",
+        "pt": "audio/pt/pt_37.mp3"
+      }
+    },
+    {
+      "id": 38,
+      "text": "Expression 38",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_38.mp3",
+        "ko": "audio/ko/ko_38.mp3",
+        "pt": "audio/pt/pt_38.mp3"
+      }
+    },
+    {
+      "id": 39,
+      "text": "Expression 39",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_39.mp3",
+        "ko": "audio/ko/ko_39.mp3",
+        "pt": "audio/pt/pt_39.mp3"
+      }
+    },
+    {
+      "id": 40,
+      "text": "Expression 40",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_40.mp3",
+        "ko": "audio/ko/ko_40.mp3",
+        "pt": "audio/pt/pt_40.mp3"
+      }
+    },
+    {
+      "id": 41,
+      "text": "Expression 41",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_41.mp3",
+        "ko": "audio/ko/ko_41.mp3",
+        "pt": "audio/pt/pt_41.mp3"
+      }
+    },
+    {
+      "id": 42,
+      "text": "Expression 42",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_42.mp3",
+        "ko": "audio/ko/ko_42.mp3",
+        "pt": "audio/pt/pt_42.mp3"
+      }
+    },
+    {
+      "id": 43,
+      "text": "Expression 43",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_43.mp3",
+        "ko": "audio/ko/ko_43.mp3",
+        "pt": "audio/pt/pt_43.mp3"
+      }
+    },
+    {
+      "id": 44,
+      "text": "Expression 44",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_44.mp3",
+        "ko": "audio/ko/ko_44.mp3",
+        "pt": "audio/pt/pt_44.mp3"
+      }
+    },
+    {
+      "id": 45,
+      "text": "Expression 45",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_45.mp3",
+        "ko": "audio/ko/ko_45.mp3",
+        "pt": "audio/pt/pt_45.mp3"
+      }
+    },
+    {
+      "id": 46,
+      "text": "Expression 46",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_46.mp3",
+        "ko": "audio/ko/ko_46.mp3",
+        "pt": "audio/pt/pt_46.mp3"
+      }
+    },
+    {
+      "id": 47,
+      "text": "Expression 47",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_47.mp3",
+        "ko": "audio/ko/ko_47.mp3",
+        "pt": "audio/pt/pt_47.mp3"
+      }
+    },
+    {
+      "id": 48,
+      "text": "Expression 48",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_48.mp3",
+        "ko": "audio/ko/ko_48.mp3",
+        "pt": "audio/pt/pt_48.mp3"
+      }
+    },
+    {
+      "id": 49,
+      "text": "Expression 49",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_49.mp3",
+        "ko": "audio/ko/ko_49.mp3",
+        "pt": "audio/pt/pt_49.mp3"
+      }
+    },
+    {
+      "id": 50,
+      "text": "Expression 50",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_50.mp3",
+        "ko": "audio/ko/ko_50.mp3",
+        "pt": "audio/pt/pt_50.mp3"
+      }
+    },
+    {
+      "id": 51,
+      "text": "Expression 51",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_51.mp3",
+        "ko": "audio/ko/ko_51.mp3",
+        "pt": "audio/pt/pt_51.mp3"
+      }
+    },
+    {
+      "id": 52,
+      "text": "Expression 52",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_52.mp3",
+        "ko": "audio/ko/ko_52.mp3",
+        "pt": "audio/pt/pt_52.mp3"
+      }
+    },
+    {
+      "id": 53,
+      "text": "Expression 53",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_53.mp3",
+        "ko": "audio/ko/ko_53.mp3",
+        "pt": "audio/pt/pt_53.mp3"
+      }
+    },
+    {
+      "id": 54,
+      "text": "Expression 54",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_54.mp3",
+        "ko": "audio/ko/ko_54.mp3",
+        "pt": "audio/pt/pt_54.mp3"
+      }
+    },
+    {
+      "id": 55,
+      "text": "Expression 55",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_55.mp3",
+        "ko": "audio/ko/ko_55.mp3",
+        "pt": "audio/pt/pt_55.mp3"
+      }
+    },
+    {
+      "id": 56,
+      "text": "Expression 56",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_56.mp3",
+        "ko": "audio/ko/ko_56.mp3",
+        "pt": "audio/pt/pt_56.mp3"
+      }
+    },
+    {
+      "id": 57,
+      "text": "Expression 57",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_57.mp3",
+        "ko": "audio/ko/ko_57.mp3",
+        "pt": "audio/pt/pt_57.mp3"
+      }
+    },
+    {
+      "id": 58,
+      "text": "Expression 58",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_58.mp3",
+        "ko": "audio/ko/ko_58.mp3",
+        "pt": "audio/pt/pt_58.mp3"
+      }
+    },
+    {
+      "id": 59,
+      "text": "Expression 59",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_59.mp3",
+        "ko": "audio/ko/ko_59.mp3",
+        "pt": "audio/pt/pt_59.mp3"
+      }
+    },
+    {
+      "id": 60,
+      "text": "Expression 60",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_60.mp3",
+        "ko": "audio/ko/ko_60.mp3",
+        "pt": "audio/pt/pt_60.mp3"
+      }
+    },
+    {
+      "id": 61,
+      "text": "Expression 61",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_61.mp3",
+        "ko": "audio/ko/ko_61.mp3",
+        "pt": "audio/pt/pt_61.mp3"
+      }
+    },
+    {
+      "id": 62,
+      "text": "Expression 62",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_62.mp3",
+        "ko": "audio/ko/ko_62.mp3",
+        "pt": "audio/pt/pt_62.mp3"
+      }
+    },
+    {
+      "id": 63,
+      "text": "Expression 63",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_63.mp3",
+        "ko": "audio/ko/ko_63.mp3",
+        "pt": "audio/pt/pt_63.mp3"
+      }
+    },
+    {
+      "id": 64,
+      "text": "Expression 64",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_64.mp3",
+        "ko": "audio/ko/ko_64.mp3",
+        "pt": "audio/pt/pt_64.mp3"
+      }
+    },
+    {
+      "id": 65,
+      "text": "Expression 65",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_65.mp3",
+        "ko": "audio/ko/ko_65.mp3",
+        "pt": "audio/pt/pt_65.mp3"
+      }
+    },
+    {
+      "id": 66,
+      "text": "Expression 66",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_66.mp3",
+        "ko": "audio/ko/ko_66.mp3",
+        "pt": "audio/pt/pt_66.mp3"
+      }
+    },
+    {
+      "id": 67,
+      "text": "Expression 67",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_67.mp3",
+        "ko": "audio/ko/ko_67.mp3",
+        "pt": "audio/pt/pt_67.mp3"
+      }
+    },
+    {
+      "id": 68,
+      "text": "Expression 68",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_68.mp3",
+        "ko": "audio/ko/ko_68.mp3",
+        "pt": "audio/pt/pt_68.mp3"
+      }
+    },
+    {
+      "id": 69,
+      "text": "Expression 69",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_69.mp3",
+        "ko": "audio/ko/ko_69.mp3",
+        "pt": "audio/pt/pt_69.mp3"
+      }
+    },
+    {
+      "id": 70,
+      "text": "Expression 70",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_70.mp3",
+        "ko": "audio/ko/ko_70.mp3",
+        "pt": "audio/pt/pt_70.mp3"
+      }
+    },
+    {
+      "id": 71,
+      "text": "Expression 71",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_71.mp3",
+        "ko": "audio/ko/ko_71.mp3",
+        "pt": "audio/pt/pt_71.mp3"
+      }
+    },
+    {
+      "id": 72,
+      "text": "Expression 72",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_72.mp3",
+        "ko": "audio/ko/ko_72.mp3",
+        "pt": "audio/pt/pt_72.mp3"
+      }
+    },
+    {
+      "id": 73,
+      "text": "Expression 73",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_73.mp3",
+        "ko": "audio/ko/ko_73.mp3",
+        "pt": "audio/pt/pt_73.mp3"
+      }
+    },
+    {
+      "id": 74,
+      "text": "Expression 74",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_74.mp3",
+        "ko": "audio/ko/ko_74.mp3",
+        "pt": "audio/pt/pt_74.mp3"
+      }
+    },
+    {
+      "id": 75,
+      "text": "Expression 75",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_75.mp3",
+        "ko": "audio/ko/ko_75.mp3",
+        "pt": "audio/pt/pt_75.mp3"
+      }
+    },
+    {
+      "id": 76,
+      "text": "Expression 76",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_76.mp3",
+        "ko": "audio/ko/ko_76.mp3",
+        "pt": "audio/pt/pt_76.mp3"
+      }
+    },
+    {
+      "id": 77,
+      "text": "Expression 77",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_77.mp3",
+        "ko": "audio/ko/ko_77.mp3",
+        "pt": "audio/pt/pt_77.mp3"
+      }
+    },
+    {
+      "id": 78,
+      "text": "Expression 78",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_78.mp3",
+        "ko": "audio/ko/ko_78.mp3",
+        "pt": "audio/pt/pt_78.mp3"
+      }
+    },
+    {
+      "id": 79,
+      "text": "Expression 79",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_79.mp3",
+        "ko": "audio/ko/ko_79.mp3",
+        "pt": "audio/pt/pt_79.mp3"
+      }
+    },
+    {
+      "id": 80,
+      "text": "Expression 80",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_80.mp3",
+        "ko": "audio/ko/ko_80.mp3",
+        "pt": "audio/pt/pt_80.mp3"
+      }
+    },
+    {
+      "id": 81,
+      "text": "Expression 81",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_81.mp3",
+        "ko": "audio/ko/ko_81.mp3",
+        "pt": "audio/pt/pt_81.mp3"
+      }
+    },
+    {
+      "id": 82,
+      "text": "Expression 82",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_82.mp3",
+        "ko": "audio/ko/ko_82.mp3",
+        "pt": "audio/pt/pt_82.mp3"
+      }
+    },
+    {
+      "id": 83,
+      "text": "Expression 83",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_83.mp3",
+        "ko": "audio/ko/ko_83.mp3",
+        "pt": "audio/pt/pt_83.mp3"
+      }
+    },
+    {
+      "id": 84,
+      "text": "Expression 84",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_84.mp3",
+        "ko": "audio/ko/ko_84.mp3",
+        "pt": "audio/pt/pt_84.mp3"
+      }
+    },
+    {
+      "id": 85,
+      "text": "Expression 85",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_85.mp3",
+        "ko": "audio/ko/ko_85.mp3",
+        "pt": "audio/pt/pt_85.mp3"
+      }
+    },
+    {
+      "id": 86,
+      "text": "Expression 86",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_86.mp3",
+        "ko": "audio/ko/ko_86.mp3",
+        "pt": "audio/pt/pt_86.mp3"
+      }
+    },
+    {
+      "id": 87,
+      "text": "Expression 87",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_87.mp3",
+        "ko": "audio/ko/ko_87.mp3",
+        "pt": "audio/pt/pt_87.mp3"
+      }
+    },
+    {
+      "id": 88,
+      "text": "Expression 88",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_88.mp3",
+        "ko": "audio/ko/ko_88.mp3",
+        "pt": "audio/pt/pt_88.mp3"
+      }
+    },
+    {
+      "id": 89,
+      "text": "Expression 89",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_89.mp3",
+        "ko": "audio/ko/ko_89.mp3",
+        "pt": "audio/pt/pt_89.mp3"
+      }
+    },
+    {
+      "id": 90,
+      "text": "Expression 90",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_90.mp3",
+        "ko": "audio/ko/ko_90.mp3",
+        "pt": "audio/pt/pt_90.mp3"
+      }
+    },
+    {
+      "id": 91,
+      "text": "Expression 91",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_91.mp3",
+        "ko": "audio/ko/ko_91.mp3",
+        "pt": "audio/pt/pt_91.mp3"
+      }
+    },
+    {
+      "id": 92,
+      "text": "Expression 92",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_92.mp3",
+        "ko": "audio/ko/ko_92.mp3",
+        "pt": "audio/pt/pt_92.mp3"
+      }
+    },
+    {
+      "id": 93,
+      "text": "Expression 93",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_93.mp3",
+        "ko": "audio/ko/ko_93.mp3",
+        "pt": "audio/pt/pt_93.mp3"
+      }
+    },
+    {
+      "id": 94,
+      "text": "Expression 94",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_94.mp3",
+        "ko": "audio/ko/ko_94.mp3",
+        "pt": "audio/pt/pt_94.mp3"
+      }
+    },
+    {
+      "id": 95,
+      "text": "Expression 95",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_95.mp3",
+        "ko": "audio/ko/ko_95.mp3",
+        "pt": "audio/pt/pt_95.mp3"
+      }
+    },
+    {
+      "id": 96,
+      "text": "Expression 96",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_96.mp3",
+        "ko": "audio/ko/ko_96.mp3",
+        "pt": "audio/pt/pt_96.mp3"
+      }
+    },
+    {
+      "id": 97,
+      "text": "Expression 97",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_97.mp3",
+        "ko": "audio/ko/ko_97.mp3",
+        "pt": "audio/pt/pt_97.mp3"
+      }
+    },
+    {
+      "id": 98,
+      "text": "Expression 98",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_98.mp3",
+        "ko": "audio/ko/ko_98.mp3",
+        "pt": "audio/pt/pt_98.mp3"
+      }
+    },
+    {
+      "id": 99,
+      "text": "Expression 99",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_99.mp3",
+        "ko": "audio/ko/ko_99.mp3",
+        "pt": "audio/pt/pt_99.mp3"
+      }
+    },
+    {
+      "id": 100,
+      "text": "Expression 100",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_100.mp3",
+        "ko": "audio/ko/ko_100.mp3",
+        "pt": "audio/pt/pt_100.mp3"
+      }
+    },
+    {
+      "id": 101,
+      "text": "Expression 101",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_101.mp3",
+        "ko": "audio/ko/ko_101.mp3",
+        "pt": "audio/pt/pt_101.mp3"
+      }
+    },
+    {
+      "id": 102,
+      "text": "Expression 102",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_102.mp3",
+        "ko": "audio/ko/ko_102.mp3",
+        "pt": "audio/pt/pt_102.mp3"
+      }
+    },
+    {
+      "id": 103,
+      "text": "Expression 103",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_103.mp3",
+        "ko": "audio/ko/ko_103.mp3",
+        "pt": "audio/pt/pt_103.mp3"
+      }
+    },
+    {
+      "id": 104,
+      "text": "Expression 104",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_104.mp3",
+        "ko": "audio/ko/ko_104.mp3",
+        "pt": "audio/pt/pt_104.mp3"
+      }
+    },
+    {
+      "id": 105,
+      "text": "Expression 105",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_105.mp3",
+        "ko": "audio/ko/ko_105.mp3",
+        "pt": "audio/pt/pt_105.mp3"
+      }
+    },
+    {
+      "id": 106,
+      "text": "Expression 106",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_106.mp3",
+        "ko": "audio/ko/ko_106.mp3",
+        "pt": "audio/pt/pt_106.mp3"
+      }
+    },
+    {
+      "id": 107,
+      "text": "Expression 107",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_107.mp3",
+        "ko": "audio/ko/ko_107.mp3",
+        "pt": "audio/pt/pt_107.mp3"
+      }
+    },
+    {
+      "id": 108,
+      "text": "Expression 108",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_108.mp3",
+        "ko": "audio/ko/ko_108.mp3",
+        "pt": "audio/pt/pt_108.mp3"
+      }
+    },
+    {
+      "id": 109,
+      "text": "Expression 109",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_109.mp3",
+        "ko": "audio/ko/ko_109.mp3",
+        "pt": "audio/pt/pt_109.mp3"
+      }
+    },
+    {
+      "id": 110,
+      "text": "Expression 110",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_110.mp3",
+        "ko": "audio/ko/ko_110.mp3",
+        "pt": "audio/pt/pt_110.mp3"
+      }
+    },
+    {
+      "id": 111,
+      "text": "Expression 111",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_111.mp3",
+        "ko": "audio/ko/ko_111.mp3",
+        "pt": "audio/pt/pt_111.mp3"
+      }
+    },
+    {
+      "id": 112,
+      "text": "Expression 112",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_112.mp3",
+        "ko": "audio/ko/ko_112.mp3",
+        "pt": "audio/pt/pt_112.mp3"
+      }
+    },
+    {
+      "id": 113,
+      "text": "Expression 113",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_113.mp3",
+        "ko": "audio/ko/ko_113.mp3",
+        "pt": "audio/pt/pt_113.mp3"
+      }
+    },
+    {
+      "id": 114,
+      "text": "Expression 114",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_114.mp3",
+        "ko": "audio/ko/ko_114.mp3",
+        "pt": "audio/pt/pt_114.mp3"
+      }
+    },
+    {
+      "id": 115,
+      "text": "Expression 115",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_115.mp3",
+        "ko": "audio/ko/ko_115.mp3",
+        "pt": "audio/pt/pt_115.mp3"
+      }
+    },
+    {
+      "id": 116,
+      "text": "Expression 116",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_116.mp3",
+        "ko": "audio/ko/ko_116.mp3",
+        "pt": "audio/pt/pt_116.mp3"
+      }
+    },
+    {
+      "id": 117,
+      "text": "Expression 117",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_117.mp3",
+        "ko": "audio/ko/ko_117.mp3",
+        "pt": "audio/pt/pt_117.mp3"
+      }
+    },
+    {
+      "id": 118,
+      "text": "Expression 118",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_118.mp3",
+        "ko": "audio/ko/ko_118.mp3",
+        "pt": "audio/pt/pt_118.mp3"
+      }
+    },
+    {
+      "id": 119,
+      "text": "Expression 119",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_119.mp3",
+        "ko": "audio/ko/ko_119.mp3",
+        "pt": "audio/pt/pt_119.mp3"
+      }
+    },
+    {
+      "id": 120,
+      "text": "Expression 120",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_120.mp3",
+        "ko": "audio/ko/ko_120.mp3",
+        "pt": "audio/pt/pt_120.mp3"
+      }
+    },
+    {
+      "id": 121,
+      "text": "Expression 121",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_121.mp3",
+        "ko": "audio/ko/ko_121.mp3",
+        "pt": "audio/pt/pt_121.mp3"
+      }
+    },
+    {
+      "id": 122,
+      "text": "Expression 122",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_122.mp3",
+        "ko": "audio/ko/ko_122.mp3",
+        "pt": "audio/pt/pt_122.mp3"
+      }
+    },
+    {
+      "id": 123,
+      "text": "Expression 123",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_123.mp3",
+        "ko": "audio/ko/ko_123.mp3",
+        "pt": "audio/pt/pt_123.mp3"
+      }
+    },
+    {
+      "id": 124,
+      "text": "Expression 124",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_124.mp3",
+        "ko": "audio/ko/ko_124.mp3",
+        "pt": "audio/pt/pt_124.mp3"
+      }
+    },
+    {
+      "id": 125,
+      "text": "Expression 125",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_125.mp3",
+        "ko": "audio/ko/ko_125.mp3",
+        "pt": "audio/pt/pt_125.mp3"
+      }
+    },
+    {
+      "id": 126,
+      "text": "Expression 126",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_126.mp3",
+        "ko": "audio/ko/ko_126.mp3",
+        "pt": "audio/pt/pt_126.mp3"
+      }
+    },
+    {
+      "id": 127,
+      "text": "Expression 127",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_127.mp3",
+        "ko": "audio/ko/ko_127.mp3",
+        "pt": "audio/pt/pt_127.mp3"
+      }
+    },
+    {
+      "id": 128,
+      "text": "Expression 128",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_128.mp3",
+        "ko": "audio/ko/ko_128.mp3",
+        "pt": "audio/pt/pt_128.mp3"
+      }
+    },
+    {
+      "id": 129,
+      "text": "Expression 129",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_129.mp3",
+        "ko": "audio/ko/ko_129.mp3",
+        "pt": "audio/pt/pt_129.mp3"
+      }
+    },
+    {
+      "id": 130,
+      "text": "Expression 130",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_130.mp3",
+        "ko": "audio/ko/ko_130.mp3",
+        "pt": "audio/pt/pt_130.mp3"
+      }
+    },
+    {
+      "id": 131,
+      "text": "Expression 131",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_131.mp3",
+        "ko": "audio/ko/ko_131.mp3",
+        "pt": "audio/pt/pt_131.mp3"
+      }
+    },
+    {
+      "id": 132,
+      "text": "Expression 132",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_132.mp3",
+        "ko": "audio/ko/ko_132.mp3",
+        "pt": "audio/pt/pt_132.mp3"
+      }
+    },
+    {
+      "id": 133,
+      "text": "Expression 133",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_133.mp3",
+        "ko": "audio/ko/ko_133.mp3",
+        "pt": "audio/pt/pt_133.mp3"
+      }
+    },
+    {
+      "id": 134,
+      "text": "Expression 134",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_134.mp3",
+        "ko": "audio/ko/ko_134.mp3",
+        "pt": "audio/pt/pt_134.mp3"
+      }
+    },
+    {
+      "id": 135,
+      "text": "Expression 135",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_135.mp3",
+        "ko": "audio/ko/ko_135.mp3",
+        "pt": "audio/pt/pt_135.mp3"
+      }
+    },
+    {
+      "id": 136,
+      "text": "Expression 136",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_136.mp3",
+        "ko": "audio/ko/ko_136.mp3",
+        "pt": "audio/pt/pt_136.mp3"
+      }
+    },
+    {
+      "id": 137,
+      "text": "Expression 137",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_137.mp3",
+        "ko": "audio/ko/ko_137.mp3",
+        "pt": "audio/pt/pt_137.mp3"
+      }
+    },
+    {
+      "id": 138,
+      "text": "Expression 138",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_138.mp3",
+        "ko": "audio/ko/ko_138.mp3",
+        "pt": "audio/pt/pt_138.mp3"
+      }
+    },
+    {
+      "id": 139,
+      "text": "Expression 139",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_139.mp3",
+        "ko": "audio/ko/ko_139.mp3",
+        "pt": "audio/pt/pt_139.mp3"
+      }
+    },
+    {
+      "id": 140,
+      "text": "Expression 140",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_140.mp3",
+        "ko": "audio/ko/ko_140.mp3",
+        "pt": "audio/pt/pt_140.mp3"
+      }
+    },
+    {
+      "id": 141,
+      "text": "Expression 141",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_141.mp3",
+        "ko": "audio/ko/ko_141.mp3",
+        "pt": "audio/pt/pt_141.mp3"
+      }
+    },
+    {
+      "id": 142,
+      "text": "Expression 142",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_142.mp3",
+        "ko": "audio/ko/ko_142.mp3",
+        "pt": "audio/pt/pt_142.mp3"
+      }
+    },
+    {
+      "id": 143,
+      "text": "Expression 143",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_143.mp3",
+        "ko": "audio/ko/ko_143.mp3",
+        "pt": "audio/pt/pt_143.mp3"
+      }
+    },
+    {
+      "id": 144,
+      "text": "Expression 144",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_144.mp3",
+        "ko": "audio/ko/ko_144.mp3",
+        "pt": "audio/pt/pt_144.mp3"
+      }
+    },
+    {
+      "id": 145,
+      "text": "Expression 145",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_145.mp3",
+        "ko": "audio/ko/ko_145.mp3",
+        "pt": "audio/pt/pt_145.mp3"
+      }
+    },
+    {
+      "id": 146,
+      "text": "Expression 146",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_146.mp3",
+        "ko": "audio/ko/ko_146.mp3",
+        "pt": "audio/pt/pt_146.mp3"
+      }
+    },
+    {
+      "id": 147,
+      "text": "Expression 147",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_147.mp3",
+        "ko": "audio/ko/ko_147.mp3",
+        "pt": "audio/pt/pt_147.mp3"
+      }
+    },
+    {
+      "id": 148,
+      "text": "Expression 148",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_148.mp3",
+        "ko": "audio/ko/ko_148.mp3",
+        "pt": "audio/pt/pt_148.mp3"
+      }
+    },
+    {
+      "id": 149,
+      "text": "Expression 149",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_149.mp3",
+        "ko": "audio/ko/ko_149.mp3",
+        "pt": "audio/pt/pt_149.mp3"
+      }
+    },
+    {
+      "id": 150,
+      "text": "Expression 150",
+      "ko_txt":"",
+      "pt_txt":"",
+      "audio": {
+        "en": "audio/en/en_150.mp3",
+        "ko": "audio/ko/ko_150.mp3",
+        "pt": "audio/pt/pt_150.mp3"
+      }
+    }
+  ]

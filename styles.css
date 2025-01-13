@@ -1,0 +1,223 @@
+/* Estilos Gerais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f3e5f5; /* Cor de fundo lilás */
+    color: #333;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    color: #7e57c2; /* Cor roxa */
+}
+
+h2 {
+    text-align: center;
+    color: #7e57c2; /* Cor roxa */
+    margin-top: 20px;
+}
+
+/* Estilo para as tabs (menu de navegação) */
+.tabs {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+/* Estilo para cada botão dentro das tabs */
+.tab-button {
+    background-color: #4a148c; /* Cor roxa escura */
+    color: white;
+    font-size: 16px;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px 4px 0 0;
+    cursor: pointer;
+    margin: 0 5px;
+    transition: all 0.3s;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+/* Alteração da cor ao passar o mouse */
+.tab-button:hover {
+    background-color: #6a1b9a;
+}
+
+/* Efeito de linha branca quando a tab estiver selecionada */
+.tab-button.selected {
+    border-bottom: 3px solid white;
+}
+
+/* Estilo do conteúdo das tabs */
+.tab-content {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+/* Estilo para os parágrafos */
+p {
+    font-size: 18px;
+    line-height: 1.4;
+    margin: 4px;
+    color: #333;
+    white-space: pre-wrap;
+}
+
+/* Estilo para o texto específico */
+.ko-text {
+    color: royalblue;
+}
+
+.pt-text {
+    color: #8B0000;
+}
+
+/* Container de itens (cards) */
+.items-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; /* Garante que os cards se ajustem corretamente */
+    margin: 20px 0;
+}
+
+/* Estilo do card */
+.card {    
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: left;
+    margin-bottom: 20px; /* Espaçamento entre os cards */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+/* Título dentro do card */
+.card h3 {
+    margin-bottom: 10px;
+}
+
+/* Botões de áudio */
+.audio-controls button {
+    margin: 5px;
+    padding: 10px 15px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f1f1f1;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.audio-controls button:hover {
+    background-color: #e0e0e0;
+}
+
+.audio-controls button.active {
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+    color: #155724;
+    font-weight: bold;
+}
+
+/* Paginação */
+.pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.pagination button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4a148c;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 0 10px;
+    transition: background-color 0.3s;
+}
+
+.pagination button:hover {
+    background-color: #6a1b9a;
+}
+
+.pagination button:disabled {
+    background-color: #cccccc;
+    cursor: not-allowed;
+}
+
+.pagination span {
+    color: #7e57c2;
+    font-weight: bold;
+}
+
+/* Botão flutuante de voltar ao topo */
+#back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #4a148c;
+    color: white;
+    border: none;
+    padding: 12px;
+    border-radius: 50%;
+    font-size: 18px;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    opacity: 0;
+    transition: opacity 0.3s;
+    z-index: 10;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#back-to-top.show {
+    opacity: 1;
+}
+
+#back-to-top:hover {
+    background-color: #6a1b9a;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    .items-container {
+        justify-content: center; /* Centraliza os cards em telas pequenas */
+    }
+
+    .card {
+        width: 87%; /* Um card por linha em telas pequenas */
+        max-width: 87%;
+    }
+
+    .pagination {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .pagination button {
+        margin: 5px 0;
+    }
+
+    #back-to-top {
+        bottom: 10px;
+        right: 10px;
+    }
+}
+
+@media (max-width: 480px) {
+    #back-to-top {
+        font-size: 16px;
+        padding: 10px;
+    }
+}

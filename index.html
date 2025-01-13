@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audiobook</title>
+    <script src="https://cdn.jsdelivr.net/npm/angular@1.8.2/angular.min.js"></script>
+    <link rel="stylesheet" href="styles.css">
+    <script src="audiobook.js"></script> <!-- Link para o script externo -->
+</head>
+
+<body ng-app="audiobookApp" ng-controller="AudiobookController">
+    <h1>Audiobook</h1>
+    <div class="tabs">
+        <button class="tab-button" ng-class="{'selected': selectedTab === 'KO'}" ng-click="selectedTab = 'KO'">KO</button>
+        <button class="tab-button" ng-class="{'selected': selectedTab === 'EN'}" ng-click="selectedTab = 'EN'">EN</button>
+        <button class="tab-button" ng-class="{'selected': selectedTab === 'PT'}" ng-click="selectedTab = 'PT'">PT</button>
+    </div>
+
+    <!-- Aba KO (Coreano) -->
+    <div ng-show="selectedTab === 'KO'" class="tab-content">
+        <h2>영어 표현(EN)</h2>
+        <p>영어를 포함한 많은 언어에서 표현은 문자 그대로 번역되지 않습니다. 종종 속담이나 관용구처럼, 단어들의 개별적인 의미보다는 문화적, 역사적인 맥락에서 이해해야 하는 경우가 많습니다. 예를 들어, 한국에서 흔히 사용되는 속담인 <strong>'고래 싸움에 새우 등 터진다'</strong>는 '강한 자들 간의 싸움에서 약한 자들이 피해를 본다'는 의미입니다. 이 속담은 단순한 문자 그대로의 번역보다는 그 속에 담긴 상징적 의미가 중요한 것입니다. 영어에서 이와 비슷한 표현은 <strong>'When elephants fight, it’s the grass that suffers'</strong> (사자들이 싸울 때, 풀밭이 고통을 겪는다)와 같다고 할 수 있습니다. 따라서 표현을 번역하거나 이해할 때는 단어 하나하나의 의미뿐만 아니라 그 말이 사용되는 상황과 맥락을 고려하는 것이 중요합니다.</p>
+
+        <!-- Navegação acima -->
+        <div class="pagination">
+            <button ng-disabled="currentPage === 1" ng-click="currentPage = currentPage - 1">Anterior</button>
+            <span>Página {{currentPage}}</span>
+            <button ng-disabled="currentPage === totalPages" ng-click="currentPage = currentPage + 1">Próxima</button>
+        </div>
+
+        <!-- Lista de itens -->
+        <div class="items-container">
+            <div class="item" ng-repeat="item in items | limitTo: itemsPerPage: (currentPage - 1) * itemsPerPage">
+                <div class="card" ng-if="hasAudio(item)">
+                    <h3>{{item.id}}. {{item.text}}</h3>
+                    <div class="text-container">
+                        <p class="ko-text" ng-if="item.ko_txt">KO: {{item.ko_txt}}</p>
+                        <p class="pt-text" ng-if="item.pt_txt">PT: {{item.pt_txt}}</p>
+                    </div>
+
+                    <div class="audio-controls">
+                        <button class="audio-btn" ng-if="item.audio.ko" ng-click="playAudio(item.audio.ko); markActiveButton($event)">🔊 KO</button>
+                        <button class="audio-btn" ng-if="item.audio.en" ng-click="playAudio(item.audio.en); markActiveButton($event)">🔊 EN</button>
+                        <button class="audio-btn" ng-if="item.audio.pt" ng-click="playAudio(item.audio.pt); markActiveButton($event)">🔊 PT</button>
+                        <p ng-if="!item.audio.ko && !item.audio.en && !item.audio.pt">Áudio não disponível</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Navegação abaixo -->
+        <div class="pagination">
+            <button ng-disabled="currentPage === 1" ng-click="currentPage = currentPage - 1">Anterior</button>
+            <span>Página {{currentPage}}</span>
+            <button ng-disabled="currentPage === totalPages" ng-click="currentPage = currentPage + 1">Próxima</button>
+        </div>
+    </div>
+
+    <!-- Aba EN (Inglês) -->
+    <div ng-show="selectedTab === 'EN'" class="tab-content">
+        <h2>Expressions in English (EN)</h2>
+        <p>Expressions in many languages, including English, are not always translated literally. Often, like proverbs or idioms, they need to be understood in a cultural or historical context rather than through the individual meaning of the words. For example, a common Korean proverb, <strong>'고래 싸움에 새우 등 터진다'</strong>, means that the weak suffer when the strong fight. This proverb is more about the symbolic meaning behind it, rather than a literal translation. In English, a similar expression is <strong>'When elephants fight, it’s the grass that suffers'</strong>. When translating or understanding expressions, it’s important to consider not only the meaning of individual words but also the situation and context in which they are used</p>
+
+        <div class="pagination">
+            <button ng-disabled="currentPage === 1" ng-click="currentPage = currentPage - 1">Anterior</button>
+            <span>Página {{currentPage}}</span>
+            <button ng-disabled="currentPage === totalPages" ng-click="currentPage = currentPage + 1">Próxima</button>
+        </div>
+
+        <div class="items-container">
+            <div class="item" ng-repeat="item in items | limitTo: itemsPerPage: (currentPage - 1) * itemsPerPage">
+                <div class="card" ng-if="hasAudio(item)">
+                    <h3>{{item.id}}. {{item.text}}</h3>
+                    <div class="text-container">
+                        <p class="ko-text" ng-if="item.ko_txt">KO: {{item.ko_txt}}</p>
+                        <p class="pt-text" ng-if="item.pt_txt">PT: {{item.pt_txt}}</p>
+                    </div>
+
+                    <div class="audio-controls">
+                        <button class="audio-btn" ng-if="item.audio.ko" ng-click="playAudio(item.audio.ko); markActiveButton($event)">🔊 KO</button>
+                        <button class="audio-btn" ng-if="item.audio.en" ng-click="playAudio(item.audio.en); markActiveButton($event)">🔊 EN</button>
+                        <button class="audio-btn" ng-if="item.audio.pt" ng-click="playAudio(item.audio.pt); markActiveButton($event)">🔊 PT</button>
+                        <p ng-if="!item.audio.ko && !item.audio.en && !item.audio.pt">Audio not available</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="pagination">
+            <button ng-disabled="currentPage === 1" ng-click="currentPage = currentPage - 1">Anterior</button>
+            <span>Página {{currentPage}}</span>
+            <button ng-disabled="currentPage === totalPages" ng-click="currentPage = currentPage + 1">Próxima</button>
+        </div>
+    </div>
+
+    <!-- Aba PT (Português) -->
+    <div ng-show="selectedTab === 'PT'" class="tab-content">
+        <h2>Expressões em Português (PT)</h2>
+        <p>Expressões em muitas línguas, incluindo o inglês, nem sempre são traduzidas literalmente. Muitas vezes, como provérbios ou expressões idiomáticas, elas precisam ser entendidas em um contexto cultural ou histórico, em vez de se basear no significado individual das palavras. Por exemplo, um provérbio coreano comum, <strong>'고래 싸움에 새우 등 터진다'</strong>, significa que os fracos sofrem quando os fortes brigam. Esse provérbio tem um significado simbólico mais importante do que a tradução literal. Em português, uma expressão semelhante é <strong>'Quando os elefantes brigam, é a grama que sofre'</strong>. Portanto, ao traduzir ou entender expressões, é importante considerar não apenas o significado das palavras individuais, mas também a situação e o contexto em que são usadas.</p>
+
+        <div class="pagination">
+            <button ng-disabled="currentPage === 1" ng-click="currentPage = currentPage - 1">Anterior</button>
+            <span>Página {{currentPage}}</span>
+            <button ng-disabled="currentPage === totalPages" ng-click="currentPage = currentPage + 1">Próxima</button>
+        </div>
+
+        <div class="items-container">
+            <div class="item" ng-repeat="item in items | limitTo: itemsPerPage: (currentPage - 1) * itemsPerPage">
+                <div class="card" ng-if="hasAudio(item)">
+                    <h3>{{item.id}}. {{item.text}}</h3>
+                    <div class="text-container">
+                        <p class="ko-text" ng-if="item.ko_txt">KO: {{item.ko_txt}}</p>
+                        <p class="pt-text" ng-if="item.pt_txt">PT: {{item.pt_txt}}</p>
+                    </div>
+
+                    <div class="audio-controls">
+                        <button class="audio-btn" ng-if="item.audio.ko" ng-click="playAudio(item.audio.ko); markActiveButton($event)">🔊 KO</button>
+                        <button class="audio-btn" ng-if="item.audio.en" ng-click="playAudio(item.audio.en); markActiveButton($event)">🔊 EN</button>
+                        <button class="audio-btn" ng-if="item.audio.pt" ng-click="playAudio(item.audio.pt); markActiveButton($event)">🔊 PT</button>
+                        <p ng-if="!item.audio.ko && !item.audio.en && !item.audio.pt">Áudio não disponível</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="pagination">
+            <button ng-disabled="currentPage === 1" ng-click="currentPage = currentPage - 1">Anterior</button>
+            <span>Página {{currentPage}}</span>
+            <button ng-disabled="currentPage === totalPages" ng-click="currentPage = currentPage + 1">Próxima</button>
+        </div>
+    </div>
+
+    <button id="back-to-top" ng-click="scrollToTop()">↑</button>
+
+</body>
+
+</html>
